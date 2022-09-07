@@ -1,0 +1,34 @@
+[
+  {
+    "id" : "1",
+    "author": "Asabi Oduntan",
+    "date": "9/10/2022",
+    "title": "how to create pages in React.js using react-router-dom",
+    "category": "Tech",
+    "content": "React Router is a fully-featured client and server-side routing library for React, a JavaScript library for building user interfaces. React Router runs anywhere React runs; on the web, on the server with node.js, and on React Native."
+  },
+  {
+    "id": "2",
+    "author": "Femi Sholagbade",
+    "date": "15/4/2022",
+    "title": "How to create data grid using react-table",
+    "category": "Tech",
+    "content": "Building accessible data grids for the web is hard—they’re incredibly complex UI components. React developers face an extra challenge when building data tables because of how React works under the hood. One React-specific challenge is that a parent component doesn’t necessarily know the current state of the child component"
+  },
+  {
+    "id": "3",
+    "author": "Simisola Olajide",
+    "date": "7/12/2020 ",
+    "title": "Imoprtance of a Yoruba Nation",
+    "category": "Community",
+    "content": "Yorubaland is the cultural region of the Yoruba people in West Africa. It spans the modern-day countries of Nigeria, Togo, and Benin. Its pre-modern history is based largely on oral traditions and legends. According to Yoruba religion, Oduduwa became the ancestor of the first divine king of the Yoruba"
+  },
+  {
+    "id": "4",
+    "author": "Ifadare Ojoyebisi",
+    "date": "10/5/2022",
+    "title": "How to make a man fall in love with you",
+    "category": "Entertainment",
+    "content": "Show that you care about your appearance and health. By putting time and energy into your physical appearance, you will demonstrate to your man that you"
+  }
+]
