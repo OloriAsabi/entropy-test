@@ -24,7 +24,7 @@ const WriteModal = ({ blogs, setWriteModal }) => {
     }
     return (
         <Box position={"fixed"} inset={0} bg={dark ? "whiteAlpha.200" : "blackAlpha.400"} transition="all" backdropFilter='blur(5px)' h="full" w="full" zIndex={10} display="grid" placeItems={"center"}>
-            <Box fontWeight={"medium"} w={["90%", "600px"]} bg={dark ? "gray.700" : "white"} p={[6, 8]} shadow="lg" position={"relative"} maxH="80%" overflowY={"auto"} >
+            <Box fontWeight={"medium"} w={["90%", "600px"]} bg={"black"} p={[6, 8]} color={'white'} shadow="lg" position={"relative"} maxH="80%" overflowY={"auto"} >
                 <CloseIcon position={"absolute"} right="4" top="4" fontSize={15} onClick={() => setWriteModal(false)} />
                 <Text as={"h2"} fontSize="xl" > Write something interesting...</Text>
 

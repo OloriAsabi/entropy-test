@@ -10,3 +10,7 @@ html{
 body{
     height: 100%;
 }
+.bg-home{
+    background-image: url(../public/logo.jpg);
+    background-size: cover;
+}
